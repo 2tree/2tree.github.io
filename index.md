@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+## Day by Day
 
-You can use the [editor on GitHub](https://github.com/2tree/2tree.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2tree/2tree.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+내품은 너에게 피난처 
+다른 사람에 나는 버려져 
+사랑 그 끝은 까만 터널속 
+보이지 않는 길이 
+나는 너무 두려워 
+태양이 내리쬐는 
+붉은 사막처럼 
+목말라 울고 있는 
+사람처럼 
+kiss me ma baby 
+이 밤이 가기전에 
+내게 어서빨리 
+Day by Day 
+니 품이 그리워져 
+너무 사랑 했나봐 
+이 밤이 지나가면 
+눈물되어 톡 톡 톡 
+저 은빛 달이 지면 
+사라질까 
+아직 남아있는 니 향기 
+꿈같던 추억들도 
+흩어질까 
+빗물처럼 멀리 톡 톡 톡 
+Kiss me baby 
+I'll must be stay here 
+Day by Day 
+사랑한다고 속삭여줘 
+Kiss me baby 
+Just you can take me 
+Day by Day 
+내 눈물이 마르기 전에 
+뚜루루루루루루 뚜루두 
+바람 처럼 
+모두 사라져 버린 너 
+뚜루루루루루루 뚜루두 
+하루하루 널 그리며 
+day by day 
+스치는 추억들이 그리운 밤 
+들려오는 너의 목소리 
+영원을 약속했던 수많은 밤 
+눈물되어 톡 톡 톡 
+Kiss me baby 
+I'll must be stay here 
+Day by Day 
+사랑한다고 속삭여줘 
+Kiss me baby 
+Just you can take me 
+Day by Day 
+내 눈물이 마르기 전에 
+뚜루루루루루루 뚜루두 
+바람 처럼 
+모두 사라져 버린 너 
+뚜루루루루루루 뚜루두 
+하루하루 널 그리며 
+Day by Day 
+떠나가는 니 모습 
+니 생각에 또 눈물이 흘러 
+돌아온다고 말해줘 
+우리사랑 영원하도록 
+넌 나를 두고 가라 
+저 멀리 멀리 길 따라 
+사라져 
+미친 사랑끝 아슬한 낭떠러지 
+질긴 사랑에 감염돼 계속떨었지 
+슬픈 시를 읊어대는 내 입술이 
+너의 까만 눈동자에 기억되리 
+kiss me ma baby 
+이 밤이 가기전에 내게 어서빨리 
+Day by Day 
+Kiss me baby 
+I'll must be stay here 
+Day by Day 
+슬프지만 너를 지울래 
+Kiss me baby 
+Just you can take me 
+Day by Day 
+내 눈물이 마르기 전에 
+kiss me baby take me 
+day by day 
